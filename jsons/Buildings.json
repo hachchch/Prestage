@@ -17,7 +17,7 @@
 			"Only available <if [Hermitage] is constructed> <after discovering [Architecture]> <hidden from users>",
 			"Only available <if [Apollo Program] is constructed> <after discovering [Rocketry]> <hidden from users>",
 			"Only available <if [Manhattan Project] is constructed> <after discovering [Atomic Theory]> <hidden from users>",
-                        "Prestage","Remove [All] [in all cities]","[+1 Food] from every [Food]","[+1 Gold] from every [Gold]","[+1 Production] from every [Production]","[+1 Culture] from every [Culture]","[+1 Faith] from every [Faith]","[+1 Happiness] from every [Happiness]",
-                "[+1 Food] from every [Food] <for [9999] turns> <hidden from users>","[+1 Gold] from every [Gold] <for [9999] turns> <hidden from users>","[+1 Production] from every [Production] <for [9999] turns> <hidden from users>","[+1 Culture] from every [Culture] <for [9999] turns> <hidden from users>","[+1 Faith] from every [Faith] <for [9999] turns> <hidden from users>","[+1 Happiness] from every [Happiness] <for [9999] turns> <hidden from users>"]
+                        "Prestage","Remove [All] [in all cities]","[+1 Food] from every [Food]","[+1 Gold] from every [Gold]","[+1 Production] from every [Production]","[+1 Culture] from every [Culture]","[+1 Science] from every [Science]","[+1 Faith] from every [Faith]","[+1 Happiness] from every [Happiness]",
+                "[+1 Food] from every [Food] <for [9999] turns> <hidden from users>","[+1 Gold] from every [Gold] <for [9999] turns> <hidden from users>","[+1 Production] from every [Production] <for [9999] turns> <hidden from users>","[+1 Culture] from every [Culture] <for [9999] turns> <hidden from users>","[+1 Science] from every [Science] <for [9999] turns> <hidden from users>","[+1 Faith] from every [Faith] <for [9999] turns> <hidden from users>","[+1 Happiness] from every [Happiness] <for [9999] turns> <hidden from users>"]
         }
 ]
