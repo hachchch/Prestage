@@ -14,7 +14,7 @@
 			"Only available <if [National Treasury] is constructed> <after discovering [Guilds]> <hidden from users>",
 			"Only available <if [Oxford University] is constructed> <after discovering [Education]> <hidden from users>",
 			"Only available <if [Hermitage] is constructed> <after discovering [Architecture]> <hidden from users>",
-                        "Prestage <hidden from users>","Remove [All] [in all cities]","[+1 Food] from every [Food]","[+1 Gold] from every [Gold]","[+1 Production] from every [Production]","[+1 Culture] from every [Culture]","[+1 Faith] from every [Faith]",
+                        "Prestage","Remove [All] [in all cities]","[+1 Food] from every [Food]","[+1 Gold] from every [Gold]","[+1 Production] from every [Production]","[+1 Culture] from every [Culture]","[+1 Faith] from every [Faith]",
                 "[+1 Food] from every [Food] <for [9999] turns> <hidden from users>","[+1 Gold] from every [Gold] <for [9999] turns> <hidden from users>","[+1 Production] from every [Production] <for [9999] turns> <hidden from users>","[+1 Culture] from every [Culture] <for [9999] turns> <hidden from users>","[+1 Faith] from every [Faith] <for [9999] turns> <hidden from users>"]
         }
 ]
